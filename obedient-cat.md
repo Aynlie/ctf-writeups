@@ -26,4 +26,4 @@ and CTF challenges.
 picoCTF{s4n1ty_v3r1f13d_9b8fa0bc}
 
 #in short di ko siya gets nung una but when I download it in easier way and put the file on the browser, It already has the flag but where's the cat bruh? 
-#then again I realize the cat mean is it is the print in the terminal like WHATT? Tha's so cool men!!
+#then again I realize the cat mean is it is the print in the kali linux terminal like WHATT? Tha's so cool men!!
